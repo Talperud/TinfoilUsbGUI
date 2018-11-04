@@ -1,5 +1,5 @@
 # TinfoilUsbGUI
-A GUI for installing NSP on windows files through tinfoils usb installer
+A GUI for installing NSP files on windows through tinfoils usb installer
 
 # Installation
 
