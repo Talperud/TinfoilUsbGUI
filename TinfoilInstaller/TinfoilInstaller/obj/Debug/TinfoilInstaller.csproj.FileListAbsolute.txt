@@ -1,0 +1,10 @@
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\bin\Debug\TinfoilInstaller.exe.config
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\bin\Debug\TinfoilInstaller.exe
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\bin\Debug\TinfoilInstaller.pdb
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.csprojResolveAssemblyReference.cache
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.Form1.resources
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.Properties.Resources.resources
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.csproj.GenerateResource.Cache
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.exe
+C:\Users\Theo_Stat\source\repos\TinfoilInstaller\TinfoilInstaller\obj\Debug\TinfoilInstaller.pdb
